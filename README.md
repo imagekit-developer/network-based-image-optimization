@@ -1,1 +1,3 @@
-# network-based-image-optimization
+# Network-based image optimization using Service Workers and ImageKit.io
+
+
